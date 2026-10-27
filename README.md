@@ -110,6 +110,11 @@ Experiments ran in Python 3.11 with TensorFlow, scikit-learn, and Hugging Face T
 </div>
 
 <p align="center">
+  <img src="figures/fig2_accuracy_train_vs_holdout.png" width="85%">
+</p>
+<p align="center"><b>Fig. 2.</b> Performance (Accuracy and F1-score).</p>
+
+<p align="center">
   <img src="figures/png/table4_model_comparison.png" width="85%">
 </p>
 <p align="center"><b>Figure.</b> Test-set metrics from Table 4. <a href="figures/table4_model_comparison.pdf">[PDF]</a></p>
