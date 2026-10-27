@@ -110,14 +110,11 @@ Experiments ran in Python 3.11 with TensorFlow, scikit-learn, and Hugging Face T
 </div>
 
 <p align="center">
-  <img src="figures/fig2_accuracy_train_vs_holdout.png" width="85%">
+  <img src="figures/png/fig2_performance.png" width="85%">
 </p>
-<p align="center"><b>Fig. 2.</b> Performance (Accuracy and F1-score).</p>
+<p align="center"><b>Fig. 2.</b> Performance (Accuracy and F1-score). <a href="figures/fig2_performance.pdf">[PDF]</a></p>
 
-<p align="center">
-  <img src="figures/png/table4_model_comparison.png" width="85%">
-</p>
-<p align="center"><b>Figure.</b> Test-set metrics from Table 4. <a href="figures/table4_model_comparison.pdf">[PDF]</a></p>
+> **Note.** Fig. 2 was redrawn from the hold-out values in Table 4 so that the figure and the table agree. The Fig. 2 printed in the version of record shows different accuracy values for k-NN and Naive Bayes; Table 4 is the reference for the reported results.
 
 Deep models outperformed the classical learners. BERT achieved the highest accuracy and F1-score, improving accuracy by about 2.2 points and F1 by about 2.6 points over BiLSTM. k-NN and Naive Bayes remain lightweight options, but their limited feature representations restrict them against sophisticated spam.
 
