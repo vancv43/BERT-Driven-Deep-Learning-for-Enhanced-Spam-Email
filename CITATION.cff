@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the published paper."
+title: "BERT-Driven Deep Learning for Enhanced Spam Email Classification with Browser Extension Integration"
+authors:
+  - family-names: Van
+    given-names: Chau Van
+    email: vancv@ptit.edu.vn
+    affiliation: "Posts and Telecommunications Institute of Technology, Ho Chi Minh City, Vietnam"
+  - family-names: Tuan
+    given-names: Nguyen Minh
+    email: minhtuan@ptit.edu.vn
+    affiliation: "Posts and Telecommunications Institute of Technology, Ho Chi Minh City, Vietnam"
+doi: 10.1007/978-3-032-23396-7_15
+url: "https://link.springer.com/chapter/10.1007/978-3-032-23396-7_15"
+preferred-citation:
+  type: conference-paper
+  title: "BERT-Driven Deep Learning for Enhanced Spam Email Classification with Browser Extension Integration"
+  authors:
+    - family-names: Van
+      given-names: Chau Van
+    - family-names: Tuan
+      given-names: Nguyen Minh
+  collection-title: "Real-Time Intelligent Systems (RTIS 2025)"
+  collection-type: proceedings
+  conference:
+    name: "The Seventh Conference on Real-time Intelligent Systems (RTIS 2025)"
+  publisher:
+    name: "Springer, Cham"
+  volume: 1936
+  start: 167
+  end: 177
+  year: 2027
+  doi: 10.1007/978-3-032-23396-7_15
